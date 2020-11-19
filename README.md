@@ -14,9 +14,10 @@
 <p>DB_USERNAME=root</p>
 <p>DB_PASSWORD=123456</p>
 
-<p>after that run fallowing commands:</p>
+## after that run fallowing commands:
 <p>docker-compose build --no-cache</p>
 <p>docker-compose up</p>
+<p>after that welcome page should be accessible on http://localhost:8100/</p>
 
 ## Migrations 
 <p>in docker desktop open cil console for laravel/app and run fallowing commands:</p>
