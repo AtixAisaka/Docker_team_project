@@ -29,5 +29,7 @@
 <p>composer install</p>
 <p>php artisan clear-compiled</p>
 <p>php artisan config:clear</p>
+<p>php artisan storage:link</p>
+<p>after this everything should work (maybe?)</p>
 
 
